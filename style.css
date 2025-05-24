@@ -32,8 +32,10 @@ section{
 h2{
     border: 2px solid rgb(36, 215, 26);
     border-radius: 10px;
-    padding-left: 10px;
+    text-align: center;
     background-color: beige;
+    padding: 10px;
+    
     
     
 }
@@ -41,6 +43,7 @@ h2{
 main{
     width: 90%;
     margin: auto;
+    margin-bottom: 20px;
     
 }
 
